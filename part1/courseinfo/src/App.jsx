@@ -19,7 +19,7 @@ return(
 
 const Part = (props)=>{
   return(
-    <p>{props.name} {props.ex}</p>
+    <p>{props.name} {props.exercise}</p>
   )
 }
 
